@@ -1,4 +1,4 @@
-### Hi my name Daniel
+### Olá sou o Daniel
  <div>
   <a href="https://github.com/danielguirra">
   <img align= "center"  height="150em" src="https://github-readme-stats.vercel.app/api?username=danielguirra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
