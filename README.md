@@ -12,6 +12,7 @@
        <a href='https://nestjs.com/'><img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" height="30" ></a>
     <a href='https://nodejs.org/en/'><img src="https://nodejs.org/static/images/logo.svg" height="30" ></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
+  <a href='https://discord.bots.gg/'> <img src="https://discord.bots.gg/img/logo_transparent.png" height="30"></a>
  </div>
  
 ### Contatos
