@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f05500&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d3d3d4&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+nome+é+Daniel+Guirra;Sou+de+Franca-SP;Bacharel+em+Ciências+da+Computação;+:%29)](https://git.io/typing-svg)
-
  <div>
   <a href="https://github.com/danielguirra">
   <img align= "center"  height="150em" src="https://github-readme-stats.vercel.app/api?username=danielguirra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
