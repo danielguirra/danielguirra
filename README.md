@@ -1,11 +1,21 @@
+### 🚀 Contato
 
- 
-### Contatos
-  <div>
-    <div>
-      <a href="https://www.linkedin.com/in/daniel-guirra-ba4202331/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-        <a href="https://discord.gg/QujfHqdUDg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-       <a href="mailto:daniel.guirra777@gmail.com" target="_blank"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r2.png" target="_blank" height="30"></a> 
-    </div>
-  </div>
+<div align="left">
+  <a href="https://www.linkedin.com/in/daniel-guirra-ba4202331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+  <a href="https://discord.gg/QujfHqdUDg" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  
+  <a href="mailto:daniel.guirra777@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
+---
+
+### 🧑‍💻 Sobre mim
+
+Desenvolvedor Backend apaixonado por criar soluções escaláveis e eficientes. Tenho experiência com **Node.js**, **TypeScript**, **JavaScript**, **NestJS**, **PostgreSQL**, **MongoDB**, **Python** e **Flask**. Adoro resolver problemas complexos e entregar resultados de alta qualidade!
