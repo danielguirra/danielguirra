@@ -18,4 +18,4 @@
 
 ### 🧑‍💻 Sobre mim
 
-Desenvolvedor Backend apaixonado por criar soluções escaláveis e eficientes. Tenho experiência com **Node.js**, **TypeScript**, **JavaScript**, **NestJS**, **PostgreSQL**, **MongoDB**, **Python** e **Flask**. Adoro resolver problemas complexos e entregar resultados de alta qualidade!
+Desenvolvedor Backend apaixonado por criar soluções escaláveis e eficientes. Tenho experiência com  **NestJS**, **AspNet**, **EF**,**PostgreSQL**, **MongoDB**, **Python** e **Flask**. Adoro resolver problemas complexos e entregar resultados de alta qualidade!
