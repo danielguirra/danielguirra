@@ -4,11 +4,6 @@
   <a href="https://www.linkedin.com/in/daniel-guirra-ba4202331/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
-  <a href="https://discord.gg/QujfHqdUDg" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  
   <a href="mailto:daniel.guirra777@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -21,10 +16,10 @@
 
 Sou um desenvolvedor backend focado na criação de soluções escaláveis, eficientes e seguras. Com formação em Ciência da Computação, busco aplicar as melhores práticas de arquitetura de software e desenvolvimento em cada projeto. Tenho experiência sólida em ecossistemas robustos como **.NET** e **NestJS**, além de vivência com infraestrutura moderna e bancos de dados relacionais e não-relacionais.
 
-* **Linguagens e Frameworks:** C#, .NET, NestJS, Python (Flask), GDScript.
+* **Linguagens e Frameworks:** C#, .NET, NestJS, Python (Flask).
 * **Bancos de Dados:** PostgreSQL, MongoDB.
 * **Infraestrutura:** Docker, AWS, Cloudflare Tunnels.
-* **Ferramentas:** Entity Framework, Git, Linux (Arch/Manjaro).
+* **Ferramentas:** Entity Framework, Git, Linux (Arch).
 
 ---
 
